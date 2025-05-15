@@ -6,24 +6,26 @@ Bienvenido a mi repositorio de prácticas y proyectos en ciberseguridad. Aunque 
 Estructura del Repositorio
 
 
-portfolio-ciberseguridad/
-├── 01_laboratorios_red/
-│   ├── Pfsense Capturas Aníbal Giordani.pdf
-│   ├── Snort capturas.pdf
-│   ├── VirtualBox Capturas Aníbal Giordani.pdf
-│
-├── 02_practicas_linux_sql/
-│   ├── [Ejemplos o prácticas Linux/SQL]
-│
-├── 03_empresa_ficticia_techsys/
-│   ├── Politica de seguridad TechSys Solutions S.L. - Anibal Giordani.pdf
-│   ├── Mapa_de_Activos_TechSys_Anibal_Giordani.xlsx
-│   ├── Arbol de dependencia - Aníbal Giordani.drawio
-│
-├── 04_practicas_python/
-│   ├── Actualizar un archivo mediante un algoritmo en Python.docx
-│
-└── README.md
+Estructura del Repositorio
+
+- **01_laboratorios_red/**
+  - pfSense Capturas Aníbal Giordani.pdf
+  - Snort capturas.pdf
+  - VirtualBox Capturas Aníbal Giordani.pdf
+
+- **02_practicas_linux_sql/**
+  - Permisos de archivos en Linux.docx
+  - Aplicación de Filtros SQL.docx
+
+- **03_empresa_ficticia_techsys/**
+  - Politica de seguridad TechSys Solutions S.L. - Anibal Giordani.pdf
+  - Mapa de Activos TechSys Anibal Giordani.xlsx
+  - Árbol de dependencia.drawio
+
+- **04_practicas_python/**
+  - Actualizar un archivo mediante un algoritmo en Python.docxlizar un archivo mediante un algoritmo en Python.docx
+
+README.md
 
 Descripción de Carpetas
 01_laboratorios_red/:
