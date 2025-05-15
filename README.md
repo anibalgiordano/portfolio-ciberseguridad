@@ -3,7 +3,6 @@
 
 Bienvenido a mi repositorio de prácticas y proyectos en ciberseguridad. Aunque aún no tengo experiencia laboral formal en el área, he realizado numerosos laboratorios y ejercicios prácticos que demuestran mis habilidades y conocimientos en diferentes ámbitos de la ciberseguridad.
 
-Estructura del Repositorio
 
 
 Estructura del Repositorio
