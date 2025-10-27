@@ -16,4 +16,4 @@ Todos los documentos y ejercicios incluidos en este repositorio fueron realizado
 
 - **LinkedIn:** [https://www.linkedin.com/in/anibal-giordano-71930345/](https://www.linkedin.com/in/anibal-giordano-71930345/)
 - **GitHub Portfolio:** [https://github.com/anibalgiordano/portfolio-ciberseguridad](https://github.com/anibalgiordano/portfolio-ciberseguridad)
-- **Perfil TryHackme:** [https://tryhackme.com/p/anibalg)
+- **Perfil TryHackme:** [https://tryhackMe.com/p/anibalg)
